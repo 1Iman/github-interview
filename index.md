@@ -3,17 +3,17 @@
 ### Summer 2019
 ---
 1. Project Background and Description\
-_`Describe how this project came about, who is involved, and the purpose.`_\
+_`Describe how this project came about, who is involved, and the purpose.`_  
 Chevron Phillips Chemical Company (CPChem) needed to migrate all SharePoint On-Prem sites to SharePoint Online. The Transportation & Logistics (T&L) team was one of the few teams that had not begun migrating their SharePoint sites by May 2019. T&L had one of the largest SharePoint site collections (measured in terabytes) within CPChem.
 2. Project Scope\
-_`Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. Scope answers questions including what will be done, what won’t be done, and what the result will look like.`_
+_`Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. Scope answers questions including what will be done, what won’t be done, and what the result will look like.`_  
     * Migrate existing functionality and content from SharePoint On-Prem to SharePoint Online and improve functionality where possible using SharePoint Online tools.
     * Verify user roles for SharePoint sites are appropriate based on principle of least privilege.
     * CPChem’s SharePoint team does not anticipate substantive changes required to existing SharePoint site structure/hierarchy
     * Training T&L users on SharePoint Online is not within scope although we do encourage T&L members to attend a training session. Synchronous and asynchronous trainings are available to CPChem employees.
     * Enhance site security (compared to T&L’s existing SharePoint On-Prem sites) where possible
 3. High-Level Requirements\
-_`Describe how this project came about, who is involved, and the purpose.`_\
+_`Describe how this project came about, who is involved, and the purpose.`_\  
 The migration project must include the following:
     * Demonstrate to T&L that the migration will not adversely impact day-to-day operations during migration nor result in any loss of data
     * T&L’s workflow must not be negatively impacted after migration is complete (necessary tasks should not become more difficult)
