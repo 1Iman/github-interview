@@ -1,4 +1,3 @@
-#### Charity May
 #### SharePoint Migration Plan for Chevron Phillips Chemical Co. (Transportation & Logistics Team)
 ##### Summer 2019
 ---
