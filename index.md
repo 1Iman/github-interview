@@ -54,8 +54,8 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
     * Retention policies were created for appropriate document types to minimize SharePoint sprawl.
     * External sharing was limited to allow users from specific domains (<mark>*@thiscompany.com</mark> & <mark>*@thatcompany.com</mark>), and guest users outside of external access settings were sent invitations to create guest accounts which eliminated the need for T&L to have public-facing content on SharePoint.  
 <p float="left">
-<img src="PowerAppsExample.png" width="500" height="400">
-<img src="PowerFlowExample.png" width="400" height="400">
+<img src="PowerAppsExample.png" width="500" height="400" alt="Power App Example">
+<img src="PowerFlowExample.png" width="400" height="400" alt="Power Flow Example">
 </p>
 
 #### Thank you for reading!
