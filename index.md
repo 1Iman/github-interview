@@ -8,14 +8,14 @@ Chevron Phillips Chemical Company (CPChem) needed to migrate all SharePoint On-P
 _`Project scope defines the boundaries of a project. Think of the scope as an imaginary box that will enclose all the project elements/activities. Scope answers questions including what will be done, what won’t be done, and what the result will look like.`_  
     * Migrate existing functionality and content from SharePoint On-Prem to SharePoint Online and improve functionality where possible using SharePoint Online tools.
     * Verify user roles for SharePoint sites are appropriate based on principle of least privilege.
-    * CPChem’s SharePoint team does not anticipate substantive changes required to existing SharePoint site structure/hierarchy
+    * CPChem’s SharePoint team does not anticipate substantive changes required to existing SharePoint site structure/hierarchy.
     * Training T&L users on SharePoint Online is not within scope although we do encourage T&L members to attend a training session. Synchronous and asynchronous trainings are available to CPChem employees.
-    * Enhance site security (compared to T&L’s existing SharePoint On-Prem sites) where possible
+    * Enhance site security (compared to T&L’s existing SharePoint On-Prem sites) where possible.
 3. High-Level Requirements\
 _`Describe how this project came about, who is involved, and the purpose.`_\  
 The migration project must include the following:
-    * Demonstrate to T&L that the migration will not adversely impact day-to-day operations during migration nor result in any loss of data
-    * T&L’s workflow must not be negatively impacted after migration is complete (necessary tasks should not become more difficult)
+    * Demonstrate to T&L that the migration will not adversely impact day-to-day operations during migration nor result in any loss of data.
+    * T&L’s workflow must not be negatively impacted after migration is complete (necessary tasks should not become more difficult).
     * The integrity of existing content included in the migration must be maintained.
 4. Deliverables\
 _`Project deliverables refer to all the outputs - tangible or intangible - that are submitted within the scope of a project.`_  
@@ -26,13 +26,13 @@ _`Project deliverables refer to all the outputs - tangible or intangible - that 
     * Completed and Live SharePoint Online Site for T&L
 5. Affected Parties\
 _`List agencies, stakeholders or divisions which will be impacted by this project and describe how they will be affected by the project.`_  
-    * Transportation and Logistics team of CPChem manages, edits, and visits their own SharePoint sites daily; some content/functionality is necessary for business operations
+    * Transportation and Logistics team of CPChem manages, edits, and visits their own SharePoint sites daily; some content/functionality is necessary for business operations.
     * Internal partners: Finance team and legal team (regular visitors of T&L’s SharePoint sites)
-    * External partners: Suppliers and shipping partners use portions of T&L’s SharePoint sites for guidelines & other documents
+    * External partners: Suppliers and shipping partners use portions of T&L’s SharePoint sites for guidelines & other documents.
 6. High-Level Timeline/Schedule\
 _`Describe what the high level timeline/schedule will be to plan, design, develop and deploy the project. Generally, by when do you expect this project to be finished?`_  
-    * Week 0: Kick-off meeting (T&L will explain how they use current SharePoint On-Prem sites, pain points, and wants/needs of SharePoint Online sites)
-    * Week 1: Delete/Migrate/Rebuild assessment of existing SharePoint site pages & content (stakeholders will determine what should be deleted, migrated (as-is), or rebuilt from scratch)
+    * Week 0: Kick-off meeting (T&L will explain how they use current SharePoint On-Prem sites, pain points, and wants/needs of SharePoint Online sites.)
+    * Week 1: Delete/Migrate/Rebuild assessment of existing SharePoint site pages & content (stakeholders will determine what should be deleted, migrated (as-is), or rebuilt from scratch.)
     * Week 2: Define technical strategies for migration (automated tools, scripts, etc.)
     * Week 3: Identify necessary changes and “wish-list” changes for each site/page
     * Week 4: Create homepage prototype
@@ -52,4 +52,5 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
         * Forms were created using Power Apps to eliminate the need to directly edit certain spreadsheets. Forms were equipped with data validation features and required fields to enforce T&L’s expectations for collected data. Forms were also mobile friendly so they can be easily completed from phones and tablets which was extremely difficult with the preceding spreadsheet versions.
         * Power Automate was used to set up automated approval processes for T&L specific requests instead of ad-hoc emailing and spreadsheets with “yes/no” approve status fields. This improved the security and efficiency of approval processes.
     * Retention policies were created for appropriate document types to minimize SharePoint sprawl.
-    * External sharing was limited to allow users from specific domains (<mark>*@thiscompany.com</mark> & <mark>*@thatcompany.com</mark>), and guest users outside of external access settings were sent invitations to create guest accounts which eliminated the need for T&L to have public-facing content on SharePoint.
+    * External sharing was limited to allow users from specific domains (<mark>*@thiscompany.com</mark> & <mark>*@thatcompany.com</mark>), and guest users outside of external access settings were sent invitations to create guest accounts which eliminated the need for T&L to have public-facing content on SharePoint.  
+#### Thank you for reading!
