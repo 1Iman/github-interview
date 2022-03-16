@@ -53,9 +53,10 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
         * Power Automate was used to set up automated approval processes for T&L specific requests instead of ad-hoc emailing and spreadsheets with “yes/no” approve status fields. This improved the security and efficiency of approval processes.
     * Retention policies were created for appropriate document types to minimize SharePoint sprawl.
     * External sharing was limited to allow users from specific domains (<mark>*@thiscompany.com</mark> & <mark>*@thatcompany.com</mark>), and guest users outside of external access settings were sent invitations to create guest accounts which eliminated the need for T&L to have public-facing content on SharePoint.  
+    
 <p float="left">
-<img alt="Power App Example" src="PowerAppsExample.png" width="50%">
-<img alt="Power Flow Example" src="PowerFlowExample.png" width="50%">
+<img alt="Power App Example" src="PowerAppsExample.png" style="width:45%">
+<img alt="Power Flow Example" src="PowerFlowExample.png" style="width:45%">
 </p>
 
 #### Thank you for reading!
