@@ -1,6 +1,6 @@
-# Charity May: Candidate for "Project Manager, Security Operations"
-## SharePoint Migration Plan for Chevron Phillips Chemical Co. (Transportation & Logistics Team)
-### Summer 2019
+#### Charity May: Candidate for "Project Manager, Security Operations"
+#### SharePoint Migration Plan for Chevron Phillips Chemical Co. (Transportation & Logistics Team)
+#### Summer 2019
 ---
 1. Project Background and Description\
 _`Describe how this project came about, who is involved, and the purpose.`_\
