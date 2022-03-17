@@ -66,11 +66,12 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
     * External sharing was limited to allow users from specific domains (<mark>*@thiscompany.com</mark> & <mark>*@thatcompany.com</mark>), and guest users outside of external access settings were sent invitations to create guest accounts which eliminated the need for T&L to have public-facing content on SharePoint.  
     
 <figure>
-  <figcaption>Power Apps Form Example</figcaption>
   <img alt="Power App Example" align="top" src="PowerAppsExample.png" style="float:left;width:49%">
+    <figcaption>Power Apps Form Example</figcaption>
 </figure>
 <figure>
-  <figcaption>Power Flow Example</figcaption><img alt="Power Flow Example" align="top" src="PowerFlowExample.png" style="width:49%">
+  <img alt="Power Flow Example" align="top" src="PowerFlowExample.png" style="width:49%">
+   <figcaption>Power Flow Example</figcaption>
 </figure>
 
 #### Thank you for reading, and [connect with me on LinkedIn](https://linkedin.com/in/imanmay)!
