@@ -69,8 +69,9 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
   <img alt="Power App Example" align="top" src="PowerAppsExample.png" style="float:left;width:49%">
     <figcaption>Power Apps Form Example</figcaption>
 </figure>
+
 <figure>
-  <img alt="Power Flow Example" align="top" src="PowerFlowExample.png" style="width:49%">
+  <img alt="Power Flow Example" align="top" src="PowerFlowExample.png" style="float:left;width:49%">
    <figcaption>Power Flow Example</figcaption>
 </figure>
 
