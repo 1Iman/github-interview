@@ -69,7 +69,8 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
 <figure>
 <img alt="Power App Example" src="PowerAppsExample.png" style="display:block; margin-left: auto; margin-right: auto; width:75%">
 </figure>
-  
+   
+   
 <p style="text-align:center">Power Automate Example for Approval</p>
 <figure>
 <img alt="Power Flow Example" src="PowerFlowExample.png" style="display:block; margin-left: auto; margin-right: auto; width:75%">
