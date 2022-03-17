@@ -10,6 +10,7 @@
 6. [Tentative Schedule](#Schedule)
 7. [Challenges](#Challenges)
 8. [Results](#Results)
+
 ---
 1. Project Overview <a name="Overview"></a>   
 _`Describe how this project came about, who is involved, and the purpose.`_  
