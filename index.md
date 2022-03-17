@@ -1,7 +1,7 @@
 #### SharePoint Migration Plan for Chevron Phillips Chemical Co. (Transportation & Logistics Team)
 ##### Summer 2019
 ---
-# Table of contents
+#### Table of contents
 1. [Project Overview](#Overview)
 2. [Project Scope](#Scope)
 3. [High-Level Requirements](#Requirements)
