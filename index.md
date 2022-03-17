@@ -67,12 +67,12 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
     
 <figure>
 <figcaption>Power Apps Form Example</figcaption>
-<img alt="Power App Example" src="PowerAppsExample.png" style="float:left;width:49%">
+<img alt="Power App Example" src="PowerAppsExample.png" style="display:block; margin-left: auto; margin-right: auto; width:75%">
 </figure>
 
 <figure>
 <figcaption>Power Flow Example</figcaption>
-<img alt="Power Flow Example" src="PowerFlowExample.png" style="float:right;width:49%">
+<img alt="Power Flow Example" src="PowerFlowExample.png" style="display:block; margin-left: auto; margin-right: auto; width:75%">
 </figure>
 
 #### Thank you for reading, and [connect with me on LinkedIn](https://linkedin.com/in/imanmay)!
