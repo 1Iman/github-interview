@@ -59,4 +59,4 @@ _`Describe the outcomes and highlights of the project. Were the requirements met
 <img alt="Power Flow Example" src="PowerFlowExample.png" style="width:49%">
 </p>
 
-#### Thank you for reading!
+#### Thank you for reading, and [connect with me on LinkedIn](https://linkedin.com/in/imanmay)!
