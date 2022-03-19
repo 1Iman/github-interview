@@ -23,7 +23,7 @@ _`Project scope defines the boundaries of a project. Think of the scope as an im
     * Training T&L users on SharePoint Online is not within scope although we do encourage T&L members to attend a training session. Synchronous and asynchronous trainings are available to CPChem employees.
     * Enhance site security (compared to T&L’s existing SharePoint On-Prem sites) where possible.
 3. High-Level Requirements <a name="Requirements"></a>  
-_`Describe how this project came about, who is involved, and the purpose.`_   
+_`Project requirements are conditions or tasks that must be completed to ensure the success or completion of the project.`_   
 The migration project must include the following:
     * Demonstrate to T&L that the migration will not adversely impact day-to-day operations during migration nor result in any loss of data.
     * T&L’s workflow must not be negatively impacted after migration is complete (necessary tasks should not become more difficult).
